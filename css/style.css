@@ -1,0 +1,28 @@
+table {
+    margin-top: 42vh;
+    margin-left: 23vw;
+    background-color: gray;
+    border: 2px solid black;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 50%;
+ 
+ }
+ 
+ th, td {
+    background-color: black;
+    border: 2px solid black;
+    border-radius: 25px;
+    text-align: center;
+    color: white;
+    padding: 10px;
+ }
+body{
+    background-image: url(https://i2.wp.com/smartereum.com/wp-content/uploads/2018/03/Bitcoin-price-Analysis-Bitcoin-to-reach-29500-by-end-of-2018.jpg?resize=696%2C373&ssl=1)
+}
+button{
+    background-color: black;
+    padding: 17px;
+    color: white;
+    margin-top: 6px;
+    margin-left: 23vw;
+}
